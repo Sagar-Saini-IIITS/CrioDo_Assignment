@@ -1,0 +1,24 @@
+
+button{
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2%;
+}
+span{
+    margin:0% 5%;
+    font-weight: 600;
+}
+li{
+    font-size: larger;
+    font-weight: bold;
+}
+img{
+    height: 20%;
+    width: 20%;
+}
+div{
+    display: inline;
+}
+input{
+    margin:1%;
+}
